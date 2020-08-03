@@ -1,0 +1,9 @@
+{
+    "docs_source_dir": "C:/_demo-docs-source/docs/en/docs/",
+    "flare_root_dir": "C:/_demo/converted-test-1/",
+    "elements_to_remove": [
+        "div, classdefinition",        
+        "script",
+        "div, class subclass"
+    ]
+}
